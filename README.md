@@ -22,7 +22,7 @@ dependencyResolutionManagement {
 ```kotlin
 // app/build.gradle.kts
 dependencies {
-  implementation("org.bigbluebutton.bbb:meeting-sdk-fused-release:0.1.1")
+  implementation("org.bigbluebutton.bbb:meeting-sdk-fused-release:0.2.0")
 }
 ```
 
